@@ -20,3 +20,5 @@
 ![Captura de pantalla](./img/push.png)
 
 6.Fusiona los cambios en tu rama secundaria con tu rama principal.
+--he fusiondo combios1 y cambios 2 en master.
+![Captura de pantalla](./img/merge.png)
